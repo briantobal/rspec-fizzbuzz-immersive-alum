@@ -3,5 +3,6 @@
 
 
 def fizzbuzz(num)
-  if num % 3 == even 
+  if num % 3 == .even 
+    return "Fizz"
 end 
