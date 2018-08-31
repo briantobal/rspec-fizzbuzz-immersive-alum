@@ -3,5 +3,5 @@
 
 
 def fizzbuzz(num)
-  if num 
+  if num % 3 == even 
 end 
