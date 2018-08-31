@@ -1,1 +1,1 @@
-spec/fizzbuzz_spec.rb --color
+require_relative './spec_helper.rb' --color
