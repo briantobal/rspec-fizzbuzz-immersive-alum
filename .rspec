@@ -1,1 +1,1 @@
-spec/fizzbuzz_spec.rb --color
+spec/fizzbuzz_spec.rb 
